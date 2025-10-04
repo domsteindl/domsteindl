@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @domsteindl aka Dominik (24 years young)
 - 👀 I’m interested in basically everything related to software development (Backend & Frontend)
-- 🌱 I’m currently learning Spring App development with Flutter
+- 🌱 I’m currently learning App development with Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
