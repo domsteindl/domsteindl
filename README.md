@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about React and Next.js
 - 😄 Pronouns: He/Him
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=domsteindl&show_icons=true)
+
 <!---
 domsteindl/domsteindl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
