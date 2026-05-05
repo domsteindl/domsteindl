@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @domsteindl aka Dominik (24 years young)
-- 👀 I’m mainly interested in Full Stack Development with Next.js
+- 👀 I’m mainly interested in Full Stack Development with ExpressJs and/or Next.js
 - 🌱 I’m currently learning about React and Next.js
 - 😄 Pronouns: He/Him
 
